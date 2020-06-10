@@ -23,10 +23,11 @@ Analsis of New York city yellow taxi data set with Hadoop MapReduce
 
 ## Insights:
 
-The graph can be found in the specific folder in the repository and depicts the variation in the number of passengers traveling in the taxi at the various instance of time during the day. The graph was drawn using Tableau from the output obtained using the map-reduce task. It can be inferred from the graph above that though both the lines follow the same trend i.e. the highs and the lows follow a similar pattern it is visible that the Average passengers traveling by taxi at any given time on a weekend are always higher than the corresponding value on weekdays.
+The graph can be found in the specific folder in the repository and depicts the variation in the number of passengers traveling in the taxi at the various instance of time during the day. The graph was drawn using TIBCO Spotfire from the output obtained using the map-reduce task. It can be inferred from the graph above that though both the lines follow the same trend i.e. the highs and the lows follow a similar pattern it is visible that the Average passengers traveling by taxi at any given time on a weekend are always higher than the corresponding value on weekdays.
+![HadoopOutput4](/output/HadoopOutput4.jpg)
 
 The second graph epicts the variation in the number of passengers traveling in the taxi at the various instance of time during
-the day. The graph was drawn using Tableau from the output obtained using the map-reduce task. It can be inferred from the graph
+the day. The graph was drawn using TIBCO Spotfire from the output obtained using the map-reduce task. It can be inferred from the graph
 above that though both the lines follow the same trend i.e. the highs and the lows follow a similar pattern it is visible that the Average passengers traveling by taxi at any given time on a weekend are always higher than the corresponding value on weekdays.
-
+![HadoopOutput5](/output/HadoopOutput5.jpg)
 * The graphs were plotted using TIBCO Spotfire and data from the same was obtained from the output of question 4 and question 5. 
